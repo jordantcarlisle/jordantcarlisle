@@ -1,11 +1,10 @@
 ### Hi there, my name is Jordan 👋
 
-- 🔭 I’m currently working on https://www.jordancarlisle.com 
-- 🌱 I’m currently learning data engineering, statistical analysis, and machine learning
-- 👯 I’m looking to collaborate on no-code projects that leverage data engineering
-- 🤔 I’m looking for help with how to architect modern data stacks
-- 💬 Ask me about how cryptocurrencies are changing the world
-- 📫 How to reach me: https://twitter.com/jordantcarlisle
-- 😄 Pronouns: (He/Him)
+- 🔭 I’m currently working on [Sober Sidekick](https://sobersidekick.com)
+- 🌱 I’m currently mastering agentic driven engineering
+- 👯 I’m looking to learn about health, economics, engineering, and philosophy
+- 🤔 I’m looking for help with how evolve an open-sourced [personal operating system](https://jordantcarlisle.github.io/personal-os/)
+- 🎥 Watch my TED Talk on tech that empowers health
+- 📫 How to reach me: [@jordantcarlisle](https://x.com/jordantcarlisle)
 - ⚡ Fun fact: I live in the mountain biking capital of the world
 
